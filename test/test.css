@@ -1,0 +1,23 @@
+#div1{
+    display: inline-block;
+    width: 400px;
+}
+#div2{
+    display: inline-block;
+    width: 400px;
+}
+#ps1{
+    width: 300px;
+}
+#ps2{
+    width: 100px;
+}
+#btn1{
+    width: 100px;
+}
+#btn2{
+    width: 100px;
+}
+p{
+    display: inline;
+}

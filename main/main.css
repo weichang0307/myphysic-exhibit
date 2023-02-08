@@ -1,0 +1,11 @@
+canvas{
+    display: block;
+}
+input{
+    display: inline;
+    position: relative;
+    top: 5px;
+}
+p{
+    display: inline;
+}
